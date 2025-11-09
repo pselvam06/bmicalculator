@@ -1,0 +1,14 @@
+body {
+  background: linear-gradient(to right, #b3e5fc, #e1f5fe);
+  font-family: "Poppins", sans-serif;
+}
+
+.card {
+  border-radius: 20px;
+}
+
+.result {
+  background-color: #f1f8e9;
+  padding: 15px;
+  border-radius: 10px;
+}
